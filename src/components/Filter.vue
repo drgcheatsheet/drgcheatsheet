@@ -19,12 +19,12 @@ function getImageUrl(name: string) {
           :src="getImageUrl(`icon_character_${character}.png`)"
           :alt="character.toLowerCase()"
           class="absolute z-10 w-20 cursor-pointer drg-filter-picture"
-          :class="!filter[character.toLowerCase()] && 'grayscale'"
+          :class="!filter[character.toLowerCase()].value && 'grayscale'"
           @click="toggleClass(character.toLowerCase())"
         >
         <div
           class="absolute top--1 left--1 w-22 h-22 drg-filter-picture"
-          :class="filter[character.toLowerCase()] ? 'bg-[#ff9c00]' : 'bg-gray-300'"
+          :class="filter[character.toLowerCase()].value ? 'bg-[#ff9c00]' : 'bg-gray-300'"
         />
       </div>
     </div>

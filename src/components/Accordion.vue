@@ -1,5 +1,17 @@
 <script setup lang="ts">
+import useFilter from '~/composables/filter'
+const { filter } = useFilter()
 const [open, toggle] = useToggle()
+const content = ref()
+
+watch(filter.driller, (newVal, oldVal) => { containsClass('drg-driller') && (open.value = true) })
+watch(filter.engineer, (newVal, oldVal) => { containsClass('drg-engineer') && (open.value = true) })
+watch(filter.gunner, (newVal, oldVal) => { containsClass('drg-gunner') && (open.value = true) })
+watch(filter.scout, (newVal, oldVal) => { containsClass('drg-scout') && (open.value = true) })
+
+function containsClass(className) {
+  return content.value.querySelectorAll(`span.${className}`).length
+}
 </script>
 
 <template>
@@ -12,7 +24,8 @@ const [open, toggle] = useToggle()
       <slot />
     </div> -->
     <div
-      v-if="open"
+      v-show="open"
+      ref="content"
       class="pr-8"
     >
       <slot />

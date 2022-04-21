@@ -10,7 +10,7 @@ function getImageUrl(name: string) {
 </script>
 
 <template>
-  <span :class="filter[props.name] && 'text-yellow-300'">
+  <span :class="filter[props.name].value ? `text-yellow-300 drg-${props.name}` : `drg-${props.name}`">
     <img
       :src="getImageUrl(`class_icon_${props.name}.png`)"
       :alt="`logo-${props.name}`"
