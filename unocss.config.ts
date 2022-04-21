@@ -20,17 +20,26 @@ export default defineConfig({
     presetAttributify(),
     presetTypography({
       cssExtend: {
-        ul: {
+        'ul': {
           margin: '0',
         },
-        p: {
+        'p': {
           margin: '0',
         },
-        h2: {
+        'h2': {
           margin: '0',
         },
-        h3: {
+        'h3': {
           margin: '1em 0 0',
+        },
+        'a': {
+          color: '#fde784',
+        },
+        'a:visited': {
+          color: '#004ac7',
+        },
+        'a:hover': {
+          color: '#c4b467',
         },
       },
     }),
