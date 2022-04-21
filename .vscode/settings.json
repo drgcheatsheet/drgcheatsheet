@@ -1,0 +1,14 @@
+{
+  "cSpell.words": [
+    "Vitesse"
+  ],
+  "prettier.enable": false,
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "typescript.format.semicolons": "remove",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true,
+  },
+  "files.associations": {
+    "*.css": "postcss",
+  },
+}
