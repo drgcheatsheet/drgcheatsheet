@@ -9,11 +9,17 @@ import {
   transformerDirectives,
   transformerVariantGroup,
 } from 'unocss'
+import { presetScrollbar } from 'unocss-scrollbar-variant'
 
 export default defineConfig({
   shortcuts: [
     ['btn', 'px-4 py-1 rounded inline-block bg-teal-600 text-white cursor-pointer hover:bg-teal-700 disabled:cursor-default disabled:bg-gray-600 disabled:opacity-50'],
     ['icon-btn', 'text-[0.9em] inline-block cursor-pointer select-none opacity-75 transition duration-200 ease-in-out hover:opacity-100 hover:text-teal-600'],
+    { 'scrollbar-thin-all': 'scrollbar:w-2 scrollbar:h-2 scrollbar-thin' },
+    [
+      /^scrollbar-bg-(track|thumb)-(.*)$/,
+      ([, section, color]) => `scrollbar-${section}:bg-${color} scrollbar-${section}-${color}`,
+    ],
   ],
   presets: [
     presetWind(),
@@ -27,10 +33,11 @@ export default defineConfig({
           margin: '0',
         },
         'h2': {
-          margin: '0',
+          'margin': '0',
+          'font-weight': 'bold',
         },
         'h3': {
-          margin: '1em 0 0',
+          margin: '1rem 0 0',
         },
         'a': {
           color: '#fde784',
@@ -40,6 +47,9 @@ export default defineConfig({
         },
         'a:hover': {
           color: '#c4b467',
+        },
+        'ol': {
+          margin: '0.5rem 0 0.5rem',
         },
       },
     }),
@@ -53,6 +63,7 @@ export default defineConfig({
                 mono: 'DM Mono', */
       },
     }),
+    presetScrollbar(),
   ],
   transformers: [
     transformerDirectives(),

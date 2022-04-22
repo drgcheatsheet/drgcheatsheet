@@ -8,19 +8,12 @@ declare module '@vue/runtime-core' {
     Accordion: typeof import('./src/components/Accordion.vue')['default']
     Button: typeof import('./src/components/Button.vue')['default']
     ClassHighlight: typeof import('./src/components/ClassHighlight.vue')['default']
-    Ebonite: typeof import('./src/components/content/Ebonite.vue')['default']
-    Events: typeof import('./src/components/content/Events.vue')['default']
     Filter: typeof import('./src/components/Filter.vue')['default']
     Footer: typeof import('./src/components/Footer.vue')['default']
-    General: typeof import('./src/components/content/General.vue')['default']
     Header: typeof import('./src/components/Header.vue')['default']
-    Introduction: typeof import('./src/components/content/Introduction.vue')['default']
-    Kursite: typeof import('./src/components/content/Kursite.vue')['default']
     Nav: typeof import('./src/components/Nav.vue')['default']
-    Omen: typeof import('./src/components/content/Omen.vue')['default']
     RouterLink: typeof import('vue-router')['RouterLink']
     RouterView: typeof import('vue-router')['RouterView']
-    Tritilyte: typeof import('./src/components/content/Tritilyte.vue')['default']
   }
 }
 

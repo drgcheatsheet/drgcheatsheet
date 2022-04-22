@@ -1,3 +1,5 @@
+<h2 id="introduction">Introduction</h2>
+
 Welcome to the [Deep Rock Galactic](https://store.steampowered.com/app/548430/Deep_Rock_Galactic/) Cheat Sheet!
 
 As the company always puts their resources into better equipment, the following should help new dwarfs getting started and engaged cave crawlers to learn some new tactics to make even more profit for mission control.

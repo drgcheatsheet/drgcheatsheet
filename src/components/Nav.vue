@@ -17,6 +17,7 @@ function scroll(element: any) {
       left: 0,
       behavior: 'smooth',
     })
+    toggle()
   }
 }
 </script>
@@ -47,11 +48,11 @@ function scroll(element: any) {
         class="w-8 h-12 bg-black absolute left--8 border border-r border-[#ffed00] top--1px bg-opacity-80 cursor-pointer"
         @click="toggle()"
       >
-        <div
-          class="my-4 mx-2 text-[#ffed00] i-akar-icons-chevron-right"
-        />
+        <div class="my-4 mx-2 text-[#ffed00] i-akar-icons-chevron-right" />
       </div>
-      <div class="px-4 py-3">
+      <div
+        class="px-4 py-3 overflow-y-scroll max-h-120 scrollbar-thin-all scrollbar-bg-track-black scrollbar-bg-thumb-[#ffed00]"
+      >
         <div
           v-for="entry in entries"
           :key="entry.id"
