@@ -2,10 +2,29 @@
 
 <Accordion>
 
-- Three mod categories -> Table
-  - Verified: Mainly visual/UI/UX changes, Only affects you, is not shown in server browser, always active as server and client, no impact on game progress
-  - Approved: (balanced) Changes on existing game mechanics, Affects all people that join you, can only used as client, if the server has it active as well, is shown as “modded” in server browser, no impact on game progress
-  - Sandbox: Can change everything in any way, affects all people that join you, can only used as client, if the server has it active as well, is shown as “sandbox” in server browser, different save no progress will be saved in your main character
+<div class="hidden sm:block">
+
+Mod category | Game impact | Progress impact
+---------|----------|---------
+ Verified | Mainly visual/UI/UX changes, Only affects you, is not shown in server browser, always active as server and client | No impact on game progress
+ Approved | Balanced changes on existing game mechanics, affects all people that join you, can only be used as client, if the server has it active as well, is shown as “modded” in server browser | No impact on game progress
+ Sandbox | Can change everything in any way, affects all people that join you, can only used as client, if the server has it active as well, is shown as “sandbox” in server browser | Different save game, no progress will be saved on your main profile
+
+</div>
+
+<div class="block sm:hidden">
+
+- Verified
+  - Mainly visual/UI/UX changes, Only affects you, is not shown in server browser, always active as server and client
+  - No impact on game progress
+- Approved
+  - Balanced changes on existing game mechanics, affects all people that join you, can only be used as client, if the server has it active as well, is shown as “modded” in server browser
+  - No impact on game progress
+- Sandbox
+  - Can change everything in any way, affects all people that join you, can only used as client, if the server has it active as well, is shown as “sandbox” in server browser
+  - Different save game, no progress will be saved on your main profile
+
+</div>
 
 ### Verified mods recommendations
 

@@ -24,7 +24,7 @@
 
 <ClassHighlight name="scout">Scout</ClassHighlight>
 
-- Finding all  Liquid Morkite wells and requesting the Pumpjacks as fast as possible so that the driller can start digging the tunnels
+- Finding all  Liquid Morkite wells and requesting the Pumpjacks as fast as possible so that the driller can start digging tunnels
 - Collecting nitra
 - Collecting all other minerals
 

@@ -1,4 +1,4 @@
-<script setup>
+<script setup lang="ts">
 import Ebonite from './events/ebonite.md'
 import Kursite from './events/kursite.md'
 import Omen from './events/omen.md'
@@ -9,7 +9,7 @@ import Tritilyte from './events/tritilyte.md'
 
 <Accordion>
 
-So called “machine events” are 180 seconds challenges that spawn randomly after the host has promoted at least one character
+So called "machine events" are 180 seconds challenges that spawn randomly after the host has promoted at least one character
 
 - There can only be one machine event per level
 - A spawn of a machine event doesn’t mean there can’t be another random spawn like Bet-C

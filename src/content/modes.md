@@ -14,7 +14,7 @@ import Salvage from './modes/salvage.md'
 
 <Accordion>
 
-The following sections describe game mode specific roles for classes and general game mode related tips.
+The following sections describe game mode specific roles for classes and general game mode related tips. Each section is divided into general tips and tips for each class.
 
 <Egghunt />
 

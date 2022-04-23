@@ -25,7 +25,7 @@ function scroll(element: any) {
 <template>
   <div
     v-if="!navOpen && !leaving"
-    class="w-8 h-12 bg-black fixed right-0 top-26.5 border border-r border-[#ffed00] top--1px bg-opacity-80 cursor-pointer"
+    class="w-8 h-12 bg-black fixed right-0 top-26.5 border-2 border-r border-[#ffed00] top--0.5 bg-opacity-85 cursor-pointer"
     @click="toggle(); refreshToc()"
   >
     <div class="my-4 mx-2 text-[#ffed00] i-akar-icons-chevron-left" />
@@ -42,10 +42,10 @@ function scroll(element: any) {
   >
     <div
       v-if="navOpen"
-      class="text-left fixed right-0 bg-black flex z-50 border border-r-0 border-[#ffed00] bg-opacity-80"
+      class="text-left fixed right-0 bg-black flex z-50 border-2 border-r-0 border-[#ffed00] bg-opacity-85"
     >
       <div
-        class="w-8 h-12 bg-black absolute left--8 border border-r border-[#ffed00] top--1px bg-opacity-80 cursor-pointer"
+        class="w-8 h-12 bg-black absolute left--8.5 border-2 border-r-0 border-[#ffed00] top--0.5 bg-opacity-85 cursor-pointer"
         @click="toggle()"
       >
         <div class="my-4 mx-2 text-[#ffed00] i-akar-icons-chevron-right" />

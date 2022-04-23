@@ -39,6 +39,10 @@ export default defineConfig({
         'h3': {
           margin: '1rem 0 0',
         },
+        'h4': {
+          'margin': '0',
+          'padding-top': '1rem',
+        },
         'a': {
           color: '#fde784',
         },
@@ -50,6 +54,30 @@ export default defineConfig({
         },
         'ol': {
           margin: '0.5rem 0 0.5rem',
+        },
+        'table': {
+          'border-collapse': 'collapse',
+        },
+        'table td': {
+          border: '1px solid white',
+        },
+        'table th': {
+          'border': '1px solid white',
+          'border-top': '0',
+          'border-left': '0',
+          'border-right': '0',
+        },
+        'table tr:first-child td': {
+          'border-top': '0',
+        },
+        'table tr td:first-child': {
+          'border-left': '0',
+        },
+        'table tr:last-child td': {
+          'border-bottom': '0',
+        },
+        'table tr td:last-child': {
+          'border-right': '0',
         },
       },
     }),
@@ -69,4 +97,9 @@ export default defineConfig({
     transformerDirectives(),
     transformerVariantGroup(),
   ],
+  theme: {
+    breakpoints: {
+      xs: '350px',
+    },
+  },
 })
