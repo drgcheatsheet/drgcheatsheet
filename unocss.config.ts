@@ -37,11 +37,13 @@ export default defineConfig({
           'font-weight': 'bold',
         },
         'h3': {
-          margin: '1rem 0 0',
+          'margin': '1rem 0 0',
+          'font-weight': 'inherit',
         },
         'h4': {
           'margin': '0',
           'padding-top': '1rem',
+          'font-weight': 'inherit',
         },
         'a': {
           color: '#fde784',

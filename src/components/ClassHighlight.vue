@@ -10,11 +10,11 @@ function getImageUrl(name: string) {
 </script>
 
 <template>
-  <span :class="filter[props.name].value ? `text-yellow-300 drg-${props.name}` : `drg-${props.name}`">
+  <span class="flex" :class="filter[props.name].value ? `text-yellow-300 drg-${props.name}` : `drg-${props.name}`">
     <img
       :src="getImageUrl(`class_icon_${props.name}.png`)"
       :alt="`logo-${props.name}`"
-      class="inline h-6 pr-1"
+      class="inline h-7 pr-1"
     >
     <slot />
   </span>
