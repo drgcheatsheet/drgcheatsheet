@@ -10,7 +10,7 @@ function getImageUrl(name: string) {
 
 <template>
   <div>
-    <div class="text-center text-xl tracking-">
+    <div class="text-center text-xl">
       Dwarf highlight
       (<span class="inline-block w-5 align-middle i-carbon-information-square" />)
     </div>

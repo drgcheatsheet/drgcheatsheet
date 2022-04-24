@@ -9,6 +9,7 @@ import Components from 'unplugin-vue-components/vite'
 import AutoImport from 'unplugin-auto-import/vite'
 import Unocss from 'unocss/vite'
 import Markdown from 'vite-plugin-md'
+import viteImagemin from 'vite-plugin-imagemin'
 
 export default defineConfig({
   resolve: {
@@ -51,6 +52,20 @@ export default defineConfig({
 
     // https://github.com/antfu/vite-plugin-md
     Markdown(),
+
+    // https://github.com/vbenjs/vite-plugin-imagemin
+    viteImagemin({
+      optipng: {
+        optimizationLevel: 7,
+      },
+      mozjpeg: {
+        quality: 20,
+      },
+      pngquant: {
+        quality: [0.8, 0.9],
+        speed: 4,
+      },
+    }),
   ],
 
   // https://github.com/vitest-dev/vitest
