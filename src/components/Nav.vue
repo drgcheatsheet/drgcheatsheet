@@ -10,7 +10,8 @@ function refreshToc() {
 }
 function scroll(element: any) {
   const targetElement = document.getElementById(element.id)
-  const position: number | undefined = targetElement?.offsetTop
+  console.log(targetElement)
+  const position: number | undefined = targetElement?.offsetParent ? targetElement.offsetParent.offsetTop + targetElement.offsetTop : targetElement?.offsetTop
   if (position) {
     window.scrollTo({
       top: position - 8,
