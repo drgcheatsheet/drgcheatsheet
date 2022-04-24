@@ -58,9 +58,6 @@ export default defineConfig({
       optipng: {
         optimizationLevel: 7,
       },
-      mozjpeg: {
-        quality: 20,
-      },
       pngquant: {
         quality: [0.8, 0.9],
         speed: 4,
