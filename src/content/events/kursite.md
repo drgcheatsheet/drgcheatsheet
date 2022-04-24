@@ -28,4 +28,7 @@
 - <ClassIcon name="driller" />Level the playing field, drill tunnels to areas that are otherwise hard to reach, if necessary create some kind of shelter (e.g. with Mactera Plague)
 
 </ClassHighlight>
+
+- [Kursite Infection](https://deeprockgalactic.fandom.com/wiki/Machine_Events#Kursite_Infection)
+
 </Accordion>

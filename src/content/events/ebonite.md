@@ -6,5 +6,6 @@
 - They can only be killed by melee attacks
 - Collect the blue canisters which are randomly spit out by the overcharge sprinkler, they basically eliminate your power attack cooldown
 - <ClassHighlight name='driller'><ClassIcon name="driller" />The Drillers impact axes can help a lot as they also make melee damage</ClassHighlight>
+- [Ebonite Mutation](https://deeprockgalactic.fandom.com/wiki/Machine_Events#Ebonite_Mutation)
 
 </Accordion>
