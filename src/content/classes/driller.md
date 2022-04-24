@@ -14,10 +14,11 @@
 - Try to help the scout with the gold from a [crassus detonator](https://deeprockgalactic.fandom.com/wiki/Glyphid_Crassus_Detonator?so=search) by drilling around the gold layer and remove all connections to the wall to make it collapse
 - Although heavily discussed, the explosives red shield is not better than the green shield - Be careful to not kill you fellow dwarfs too often with explosives
 - Bunkers are often more dangerous than useful, especially on H5 and higher - If for example a detonator spawns, it’s a death trap. It also takes the fun out of some modes.
+- Although bunkers are rarely used, know how to create one, if you are ever in need to bunker up in a critical situation.
 - When using flamethrower with sticky flames, change your playstyle to focus more on indirect damage. Place down a line of fire and try to get as many bugs as possible to run through that.
 
 #### Overclock recommendations
 
-- Sticky flames
+- Sticky flames for crowd control
 
 </Accordion>
