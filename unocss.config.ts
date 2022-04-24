@@ -58,7 +58,7 @@ export default defineConfig({
           color: '#c4b467',
         },
         'a::after': {
-          content: '\' ↗\'',
+          content: '\'↗\'',
         },
         'ol': {
           margin: '0.5rem 0 0.5rem',

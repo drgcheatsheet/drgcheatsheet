@@ -10,8 +10,8 @@
 #### Tips
 
 - The EPC can be used for mining minerals from the wall - While this can help the scout and can especially help in escort duty to get oil shale off the wall, be careful to not hurt your scout
-- You can use explosives for mining, but be even more careful - Especially helpful to mine gold from crassus detonator
-- Try to help the scout with the gold from a crassus detonator by drilling around the gold layer and remove all connections to the wall to make it collapse
+- You can use explosives for mining, but be even more careful - Especially helpful to mine gold from [crassus detonator](https://deeprockgalactic.fandom.com/wiki/Glyphid_Crassus_Detonator?so=search)
+- Try to help the scout with the gold from a [crassus detonator](https://deeprockgalactic.fandom.com/wiki/Glyphid_Crassus_Detonator?so=search) by drilling around the gold layer and remove all connections to the wall to make it collapse
 - Although heavily discussed, the explosives red shield is not better than the green shield - Be careful to not kill you fellow dwarfs too often with explosives
 - Bunkers are often more dangerous than useful, especially on H5 and higher - If for example a detonator spawns, it’s a death trap. It also takes the fun out of some modes.
 - When using flamethrower with sticky flames, change your playstyle to focus more on indirect damage. Place down a line of fire and try to get as many bugs as possible to run through that.

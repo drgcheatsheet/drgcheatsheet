@@ -4,12 +4,32 @@
 
 #### Tips
 
-<ClassHighlight name="driller">Driller</ClassHighlight>
+<ClassHighlight name="driller">
 
-<ClassHighlight name="engineer">Engineer</ClassHighlight>
+#### <ClassIcon name="driller" /><span class="align-middle">Driller</span>
 
-<ClassHighlight name="gunner">Gunner</ClassHighlight>
+- 
 
-<ClassHighlight name="scout">Scout</ClassHighlight>
+</ClassHighlight>
+<ClassHighlight name="engineer">
 
+#### <ClassIcon name="engineer" /><span class="align-middle">Engineer</span>
+
+- 
+
+</ClassHighlight>
+<ClassHighlight name="gunner">
+
+#### <ClassIcon name="gunner" /><span class="align-middle">Gunner</span>
+
+- 
+
+</ClassHighlight>
+<ClassHighlight name="scout">
+
+#### <ClassIcon name="scout" /><span class="align-middle">Scout</span>
+
+- 
+
+</ClassHighlight>
 </Accordion>

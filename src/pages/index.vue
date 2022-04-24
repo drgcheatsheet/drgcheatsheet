@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import Events from '../content/events.md'
+import Enemies from '../content/enemies.md'
 import Introduction from '../content/introduction.md'
 import General from '../content/general.md'
 import Communication from '../content/communication.md'
@@ -22,6 +23,7 @@ import Links from '../content/links.md'
       <Promotions class="drg-block" />
       <Classes class="drg-block" />
       <Modes class="drg-block" />
+      <Enemies class="drg-block" />
       <Hosting class="drg-block" />
       <Mods class="drg-block" />
       <Links class="drg-block" />
