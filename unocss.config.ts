@@ -35,24 +35,30 @@ export default defineConfig({
         'h2': {
           'margin': '0',
           'font-weight': 'bold',
+          'color': '#ffd300',
         },
         'h3': {
           'margin': '1rem 0 0',
           'font-weight': 'inherit',
+          'color': '#ffd300',
         },
         'h4': {
           'margin': '0',
           'padding-top': '1rem',
           'font-weight': 'inherit',
+          'color': '#ffd300',
         },
         'a': {
           color: '#fde784',
         },
         'a:visited': {
-          color: '#004ac7',
+          color: '#1163ed',
         },
         'a:hover': {
           color: '#c4b467',
+        },
+        'a::after': {
+          content: '\' ↗\'',
         },
         'ol': {
           margin: '0.5rem 0 0.5rem',
@@ -102,6 +108,10 @@ export default defineConfig({
   theme: {
     breakpoints: {
       xs: '350px',
+      sm: '640px',
+      md: '768px',
+      lg: '1024px',
+      xl: '1280px',
     },
   },
 })

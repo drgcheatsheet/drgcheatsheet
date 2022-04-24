@@ -1,4 +1,4 @@
-<h3 id="gunner"><ClassHighlight name="gunner">Gunner</ClassHighlight></h3>
+<h3 id="gunner"><ClassHighlight name="gunner"><ClassIcon name="gunner" /><span class="align-middle">Gunner</span></ClassHighlight></h3>
 
 <Accordion>
 

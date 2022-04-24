@@ -51,7 +51,7 @@ function scroll(element: any) {
         <div class="my-4 mx-2 text-[#ffed00] i-akar-icons-chevron-right" />
       </div>
       <div
-        class="px-4 py-3 overflow-y-scroll max-h-120 scrollbar-thin-all scrollbar-bg-track-black scrollbar-bg-thumb-[#ffed00]"
+        class="px-4 py-3 overflow-y-scroll max-h-100 sm:max-h-120 scrollbar-thin-all scrollbar-bg-track-black scrollbar-bg-thumb-[#ffed00]"
       >
         <div
           v-for="entry in entries"

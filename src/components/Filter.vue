@@ -10,8 +10,9 @@ function getImageUrl(name: string) {
 
 <template>
   <div>
-    <div class="text-center text-xl">
+    <div class="text-center text-xl tracking-">
       Dwarf highlight
+      (<span class="inline-block w-5 align-middle i-carbon-information-square" />)
     </div>
     <div class="flex gap-4 sm:gap-8 justify-center mt-4 mb-6 mx-6">
       <div v-for="character in characters" :key="character" class="relative h-10 w-10 xs:(h-14 w-14) sm:(h-18 w-18)">

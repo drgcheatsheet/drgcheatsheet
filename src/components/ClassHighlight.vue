@@ -10,12 +10,13 @@ function getImageUrl(name: string) {
 </script>
 
 <template>
-  <span class="flex" :class="filter[props.name].value ? `text-yellow-300 drg-${props.name}` : `drg-${props.name}`">
-    <img
-      :src="getImageUrl(`class_icon_${props.name}.png`)"
-      :alt="`logo-${props.name}`"
-      class="inline h-7 pr-1"
-    >
-    <slot />
+  <span :class="`flex group relative drg-${props.name}`">
+    <span
+      v-show="filter[props.name].value"
+      class="group-hover:animate-bounce animate-duration-1s animate-count-1 absolute text-white right--8 top-1 h-5 w-5 i-carbon-information-square border"
+    />
+    <span>
+      <slot />
+    </span>
   </span>
 </template>

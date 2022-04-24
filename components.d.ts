@@ -8,6 +8,7 @@ declare module '@vue/runtime-core' {
     Accordion: typeof import('./src/components/Accordion.vue')['default']
     Button: typeof import('./src/components/Button.vue')['default']
     ClassHighlight: typeof import('./src/components/ClassHighlight.vue')['default']
+    ClassIcon: typeof import('./src/components/ClassIcon.vue')['default']
     Filter: typeof import('./src/components/Filter.vue')['default']
     Footer: typeof import('./src/components/Footer.vue')['default']
     Header: typeof import('./src/components/Header.vue')['default']

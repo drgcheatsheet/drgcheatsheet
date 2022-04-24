@@ -1,4 +1,4 @@
-<h3 id="driller"><ClassHighlight name="driller">Driller</ClassHighlight></h3>
+<h3 id="driller"><ClassHighlight name="driller"><ClassIcon name="driller" /><span class="align-middle">Driller</span></ClassHighlight></h3>
 
 <Accordion>
 
@@ -9,7 +9,7 @@
 
 #### Tips
 
-- The epc can be used for mining minerals from the wall - While this can help the scout and can especially help in escort duty to get oil shale off the wall, be careful to not hurt your scout
+- The EPC can be used for mining minerals from the wall - While this can help the scout and can especially help in escort duty to get oil shale off the wall, be careful to not hurt your scout
 - You can use explosives for mining, but be even more careful - Especially helpful to mine gold from crassus detonator
 - Try to help the scout with the gold from a crassus detonator by drilling around the gold layer and remove all connections to the wall to make it collapse
 - Although heavily discussed, the explosives red shield is not better than the green shield - Be careful to not kill you fellow dwarfs too often with explosives

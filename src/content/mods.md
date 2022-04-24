@@ -30,7 +30,16 @@ Mod category | Game impact | Progress impact
 
 As verified mods don't give you any disadvantages, you should definitely consider using them. They can also always be disabled in the mods tab in the pause menu.
 
-- Brighter objects
-- For hosting: Motd - Provides a welcome message for your server. Greet your teammates, write down the rules or just wish everyone a good day.
+- [Brighter Objects](https://drg.mod.io/brighter-objects) - Helps a lot with secondary objectives
+- [Simpler Hollow Bough](https://drg.mod.io/simpler-hollow-bough)
+- [Simpler Azure Weald](https://drg.mod.io/simpler-azure-weald)
+- [Better Downed Icon](https://drg.mod.io/better-downed-icon)
+- [10 Waypoints](https://drg.mod.io/10-waypoints) - Scout essential
+- [Text Commands Wheel](https://drg.mod.io/text-commands-wheel) - Helpful text shortcuts with support for multiple shortcut sets (e.g. for different mission types)
+- [MOTD - automatic welcome message](https://drg.mod.io/motd-automatic-welcome-message) - Provides a welcome message for your server. Greet your teammates, write down the rules or just wish everyone a good day.
+- ~~[Closer Promotion Terminal](https://drg.mod.io/closer-promotion-terminal)~~ - Currently not working
+- [Live Mission Stat Tracker](https://drg.mod.io/live-mission-stat-tracker) - For all the statistics nerds and dwarf optimizers out there
+- [SimpleMissionTimer](https://drg.mod.io/simplemissiontimer) - Great for speedrunning
+- [Actual sound for cave leech movement](https://drg.mod.io/actual-sound-for-cave-leech-movement) - Plays "take on me" when a leech tries to snatch you, basically half of hightened senses
 
 </Accordion>

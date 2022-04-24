@@ -1,4 +1,4 @@
-<h3 id="engineer"><ClassHighlight name="engineer">Engineer</ClassHighlight></h3>
+<h3 id="engineer"><ClassHighlight name="engineer"><ClassIcon name="engineer" /><span class="align-middle">Engineer</span></ClassHighlight></h3>
 
 <Accordion>
 
