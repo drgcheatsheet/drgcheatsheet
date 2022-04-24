@@ -20,4 +20,8 @@ The following section has some tips regarding specific enemy types or enemies.
 
 - Always focus on healing pods first
 
+<h3 id="bet-c">Bet-C</h3>
+
+- When Bet-C deploys her shields and starts firing mortars, sometimes (depending on where the mortars land), the area inside the shield is safe to get up close and power attack/unload your mag to do some great damage. thx @[FlamingCrimson](https://www.reddit.com/user/FlamingCrimson/)
+
 </Accordion>
