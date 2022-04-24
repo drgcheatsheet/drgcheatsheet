@@ -2,6 +2,8 @@
 
 <Accordion>
 
+The following section has some tips regarding specific enemy types or enemies.
+
 <h3 id="detonator">Detonator</h3>
 
 - Don’t panic if a detonator spawns, they are quite slow
