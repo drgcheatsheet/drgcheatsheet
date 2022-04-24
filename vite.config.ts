@@ -8,7 +8,7 @@ import Layouts from 'vite-plugin-vue-layouts'
 import Components from 'unplugin-vue-components/vite'
 import AutoImport from 'unplugin-auto-import/vite'
 import Unocss from 'unocss/vite'
-import Markdown from 'vite-plugin-md'
+import Markdown, { link } from 'vite-plugin-md'
 import viteImagemin from 'vite-plugin-imagemin'
 
 export default defineConfig({
@@ -51,7 +51,9 @@ export default defineConfig({
     Unocss(),
 
     // https://github.com/antfu/vite-plugin-md
-    Markdown(),
+    Markdown({
+      builders: [link()],
+    }),
 
     // https://github.com/vbenjs/vite-plugin-imagemin
     viteImagemin({

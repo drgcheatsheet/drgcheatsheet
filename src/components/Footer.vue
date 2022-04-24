@@ -1,7 +1,7 @@
 <template>
-  <nav text-xl my-3 inline-flex gap-2>
+  <nav text-3xl my-auto inline-flex gap-2>
     <a
-      class="icon-btn"
+      class="icon-btn mt-1.5"
       i-carbon-logo-github
       rel="noreferrer"
       href="https://github.com/drgcheatsheet/drgcheatsheet"
