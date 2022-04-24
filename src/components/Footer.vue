@@ -4,7 +4,7 @@
       class="icon-btn"
       i-carbon-logo-github
       rel="noreferrer"
-      href="https://github.com/itpropro/drgcheatsheet"
+      href="https://github.com/drgcheatsheet/drgcheatsheet"
       target="_blank"
       title="GitHub"
     />
