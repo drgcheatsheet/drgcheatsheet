@@ -2,6 +2,8 @@
 
 <Accordion>
 
+The following list describes the different types of mods. There is also a list of verified mod recommendation. We don't have approved mods recommendations, as they are very subjective.
+
 <div class="hidden sm:block">
 
 Mod category | Game impact | Progress impact

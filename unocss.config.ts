@@ -59,6 +59,11 @@ export default defineConfig({
         'a::after': {
           content: '\'↗\'',
         },
+        'img': {
+          'max-width': '14rem',
+          'margin-left': 'auto',
+          'margin-right': 'auto',
+        },
         'ol': {
           margin: '0.5rem 0 0.5rem',
         },
