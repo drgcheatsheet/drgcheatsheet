@@ -30,6 +30,8 @@ Mod category | Game impact | Progress impact
 
 ### Verified mods recommendations
 
+<Accordion>
+
 As verified mods don't give you any disadvantages, you should definitely consider using them. They can also always be disabled in the mods tab in the pause menu.
 
 - [Brighter Objects](https://drg.mod.io/brighter-objects) - Helps a lot with secondary objectives
@@ -44,4 +46,5 @@ As verified mods don't give you any disadvantages, you should definitely conside
 - [SimpleMissionTimer](https://drg.mod.io/simplemissiontimer) - Great for speedrunning
 - [Actual sound for cave leech movement](https://drg.mod.io/actual-sound-for-cave-leech-movement) - Plays "take on me" when a leech tries to snatch you, basically half of hightened senses
 
+</Accordion>
 </Accordion>
