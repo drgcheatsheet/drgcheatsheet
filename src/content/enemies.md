@@ -4,6 +4,9 @@
 
 The following section has some tips regarding specific enemy types or enemies.
 
+- Exploders don't detonate when headshotting or hitting them in the head.
+- You can shoot the projectiles of a spitballer. This is especially easy with something like the Gunner's Minigun.
+
 <h3 id="detonator">Detonator</h3>
 
 - Don’t panic if a detonator spawns, they are quite slow
@@ -23,5 +26,6 @@ The following section has some tips regarding specific enemy types or enemies.
 <h3 id="bet-c">Bet-C</h3>
 
 - When Bet-C deploys her shields and starts firing mortars, sometimes (depending on where the mortars land), the area inside the shield is safe to get up close and power attack/unload your mag to do some great damage. thx @[FlamingCrimson](https://www.reddit.com/user/FlamingCrimson/)
+- Always target the charge suckers (yellow bulbs) on the Bet-C, not the robot itself for most damage.
 
 </Accordion>

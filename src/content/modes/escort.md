@@ -23,7 +23,7 @@
 
 #### <ClassIcon name="engineer" /><span class="align-middle">Engineer</span>
 
-- You can create platforms in the second phase of the Ommoran Heartstone to avoid the flying rocks from falling onto the dozer. Try to create a layer around 2 meters above the dozer and fix holes quickly.
+- Create platforms above the dozer in the second phase of the Ommoran Heartstone to avoid the flying rocks from damaging the dozer. Try to create them around 2 meters above the dozer and fix holes quickly.
 - The Heartstone itself is a good spot for turrets
 
 </ClassHighlight>

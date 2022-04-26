@@ -12,6 +12,7 @@
 - The gunner is the most straight forward class, you aim and shoot
 - The "born ready" overclock is very helpful on many Gunner weapons
 - Try to fill in the gap if you are missing one class in your game, when you are not busy shooting bugs
+- You can grab a zip line again in mid air when you are shot at or when you need to get an item like a boolo cap. Just press E (X on Xbox) fast enough.
 
 #### Overclock recommendations
 

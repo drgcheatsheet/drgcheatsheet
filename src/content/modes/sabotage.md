@@ -8,7 +8,8 @@
 
 #### <ClassIcon name="driller" /><span class="align-middle">Driller</span>
 
-- 
+- When you drill under a turret, it instantly dies
+- Use the flamethrower, as you can overheat and thereby instantly kill robots with it
 
 </ClassHighlight>
 <ClassHighlight name="engineer">

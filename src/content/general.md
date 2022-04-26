@@ -14,13 +14,15 @@ These tips will help you getting started and being more productive to get those 
 - When you are on a mission that requires to go back to the pod after finishing the objectives (e.g. Mining Expedition), follow the driller. This will avoid getting lost and the driller has some sweet drills to make a direct tunnel to the pod.
 - Know you classes role in each game mode. There are tasks that each class can do best. Although you are not forced to do these tasks, when playing in random lobbies, players expect at least a certain amount of tasks from the other dwarfs to be taken care of.
 - Every enemy has a specific sound, try to learn at least the cave leech one, to have a chance to react to them
+- Landing/grabbing zip lines, pipes, etc. is much easier, when you just keep pressing E (X on Xbox)
+- If you are grabbed by a Grabber, press E when flying near a zip line, to get free
 - Fall damage is not calculated by the height, but by your velocity - If you somehow (special power) gain a lot of speed, even from just 1 meter above the ground, you can easily die
 - There are multiple ways to avoid/reduce fall damage
 
   1. Land on a fellow dwarf
   2. Land on a ledge (quite difficult)
   3. Land on most enemies
-  4. Grab a line in mid air or land on a pipe(keep activate (E on PC, X on Xbox) pressed)
+  4. Grab a line in mid air or land on a pipe
   5. Fall on a engineers platform (reduces the damage if skilled)
 
 - Use different builds for different mission types - While on lower hazard levels it might not make a huge difference, on H4/5 and Elite Deep Dives, it can mean to win or lose the game if you have the wrong loadout.
@@ -28,6 +30,12 @@ These tips will help you getting started and being more productive to get those 
 - Big items like aquarqs or other chunks can be thrown. Use that to quickly move them around and throw them to your team mates to bridge gaps.
 - Don't randomly order resupply pods. If there is enough nitra, order a pod, but try to keep at least 80 nitra as leftover and check your teams ammo before ordering a resupply pod. [This is also a very good guide how to avoid wasting nitra](https://www.reddit.com/r/DeepRockGalactic/comments/t6asro/visual_guide_on_how_to_avoid_wasting_nitra_in/).
 - Try to use up your ammunition equally. You can see your remaining ammo (and your teammate's) in the four bars when you take out your laser pointer. Try to not refill before having used up at least 2 of the 4 bars.
+- You can use animation cancelling to reload and sometimes shoot faster. To do that, click right mouse button (pickaxe) or press ctrl (pointer) briefly during the animation. For guns, you can press it as soon as the actual ammo count has changed on the bottom right on your screen to instantly be able to fire again instead of waiting for the animation to end. The weapons/tools that heavily benefit from animation cancelling are
+  - Pickaxe (don't hold for mining, click at ca. 80% of the animation to mine faster)
+  - Engineers Platform Gun (quickly shoot out platforms by pressing left and then right mouse button shortly after)
+  - Gunners Autocannon
+  - Drillers Axes (see Driller section for details)
+- Press space to recenter the map
 - Left over nitra doesn't give you anything, use it up for those tasty supplies!
 - If you want to benchmark your a specific build, I recommend going solo H5 on Point Extraction with Bosco disabled and measure the time you can survive or it takes to complete the mission
 - If someone finds compressed gold, it's good dwarf behavior to ping it until someone is so annoyed that he returns the compressed gold chunk. ![Compressed Gold](/src/assets/compressed_gold.png)
