@@ -11,7 +11,7 @@ function getImageUrl(name: string) {
 <template>
   <div>
     <div class="text-center text-xl">
-      Dwarf highlight
+      Select dwarf to highlight
       (<span class="inline-block w-5 align-middle i-carbon-information-square" />)
     </div>
     <div class="flex gap-4 sm:gap-8 justify-center mt-4 mb-6 mx-6">

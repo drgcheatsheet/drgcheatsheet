@@ -20,21 +20,21 @@
 
 #### <ClassIcon name="engineer" /><span class="align-middle">Engineer</span>
 
-- 
+- Place some platforms as roof to protect from sniper turrets
 
 </ClassHighlight>
 <ClassHighlight name="gunner">
 
 #### <ClassIcon name="gunner" /><span class="align-middle">Gunner</span>
 
-- 
+- Everything that produces heat is good against robots, try to incorporate that into your build
 
 </ClassHighlight>
 <ClassHighlight name="scout">
 
 #### <ClassIcon name="scout" /><span class="align-middle">Scout</span>
 
-- 
+- Everything that produces heat is good against robots, try to incorporate that into your build
 
 </ClassHighlight>
 </Accordion>
