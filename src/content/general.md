@@ -27,6 +27,7 @@ These tips will help you getting started and being more productive to get those 
 
 - Use different builds for different mission types - While on lower hazard levels it might not make a huge difference, on H4/5 and Elite Deep Dives, it can mean to win or lose the game if you have the wrong loadout.
 - Mining minerals directly with the axe might not be the fastest way - When you have active beer or are in sandblasted corridors, it’s often faster to mine around a gold patch to
+- Mining of minerals that come out of the ground instead of being a patch on the wall is done the fastest by pickaxing the most bottom part and let the rest of the stone collapse.
 - Big items like aquarqs or other chunks can be thrown. Use that to quickly move them around and throw them to your team mates to bridge gaps.
 - Don't randomly order resupply pods. If there is enough nitra, order a pod, but try to keep at least 80 nitra as leftover and check your teams ammo before ordering a resupply pod. [This is also a very good guide how to avoid wasting nitra](https://www.reddit.com/r/DeepRockGalactic/comments/t6asro/visual_guide_on_how_to_avoid_wasting_nitra_in/).
 - Try to use up your ammunition equally. You can see your remaining ammo (and your teammate's) in the four bars when you take out your laser pointer. Try to not refill before having used up at least 2 of the 4 bars.

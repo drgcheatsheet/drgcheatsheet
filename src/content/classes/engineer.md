@@ -5,15 +5,18 @@
 #### Main tasks
 
 - Kill enemies
-- Shoot platforms - Primarily for scout, also to block the way of the creeps or bridge holes or to make stairs
+- **Proactively** shoot platforms for the scout to every mineral/secondary you see
+- Block the way of the bugs by building roofs (mainly against Mactera)
+- Bridge holes or make stairs to make important parts of the map accessible
 
 #### Tips
 
 - You don't need to skill "Supercharged Feed Mechanism" for Platform Gun, as it can heavily benefit from animation cancelling
 - Proactively shoot platforms to every mineral you see and don't wait for pings - This includes secondary objectives, beer plants and everything else collectable
 - Don't forget to put down and recall your turret(s)
-- Don't put down proximity mines on the ground where you need to defend, put them in the walking path of the bugs. Otherwise they make heavy friendly fire!
+- Don't put down proximity mines on the ground where you need to defend, put them in the walking path of the bugs. Otherwise they create heavy friendly fire!
 - Your turrets are refilled when recalled, this is sometimes faster or easier than refilling it directly, e.g. when migrating to another cave or when you are on the run
+- You can mine minerals faster that need two axe hits, when you shoot your platform on it and then pickaxe the platform.
 - You can shape the paths of creeps by putting down platforms on the ground, if you have skilled "Repellant Additive" at tier 3.
 - When you are defending a specific point on the map, for example in salvage operation, you can use the platforms to create a roof to protect from mactera and further shape the creeps way.
 - Always create roofs at least in a height that you can still jump.

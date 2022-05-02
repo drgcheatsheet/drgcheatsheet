@@ -13,7 +13,7 @@ const router = useRouter()
       class="w-38"
     >
     <p class="my-auto text-3xl font-bold">
-      Cheat Sheet
+      drg.guide
     </p>
   </div>
 </template>
