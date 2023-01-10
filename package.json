@@ -35,7 +35,7 @@
     "vite-plugin-md": "^0.13.1",
     "vite-plugin-pages": "^0.22.0",
     "vite-plugin-vue-layouts": "^0.6.0",
-    "vitest": "^0.10.0",
+    "vitest": "^0.27.0",
     "vue-tsc": "^0.34.6"
   },
   "eslintConfig": {
